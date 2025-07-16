@@ -1,6 +1,6 @@
 # Code Challenge
 ## Helpful Links
-* [Star Wars API ](https://swapi.dev/)
+* [Star Wars API ](https://swapi.py4e.com/)
 * [express.js](https://expressjs.com/)
 
 ## Details
@@ -8,7 +8,7 @@
 * To begin, fork this repo and push all of your commits to the fork.
 * Don't spend more than a couple of hours on this. There's no hard time limit, but this isn't intended to take up your whole day.
 * Don't over-engineer. This is a coding challenge, not a production application. Write clean code, but I don't need a full infrastructure - just provide the documented requirements.
-* I don't care if it's in JavaScript or TypeScript. You won't win any "points" choosing one over the other. Just do what you're comfortable with.
+* I don't care if it's in JavaScript or TypeScript. Just do what you're comfortable with.
 * Folder structure - If you want to do this all in one file, great. Add a comment at the top of the file telling me how you would structure things in a larger scale project. If you want to do a full folder structure, great. Just explain your structure in your .README.
 * Please provide a sentance or two on how to start your server in your .README.
 * Reach out with any questions - this isn't intended to be a gotcha. We're happy to help.
